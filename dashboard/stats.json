@@ -1,0 +1,57 @@
+{
+    "total": 15,
+    "parasitized": 7,
+    "uninfected": 8,
+    "history": [
+        {
+            "time": "2026-05-02 23:39:15.477755",
+            "result": "\u2705 Uninfected",
+            "image": "static/uploads\\C100P61ThinF_IMG_20150918_144104_cell_48_png.rf.1a90ad4a43921197e6957be6a000194c.jpg"
+        },
+        {
+            "time": "2026-05-02 23:39:20.245006",
+            "result": "\ud83e\udda0 Parasitized (Malaria Detected)",
+            "image": "static/uploads\\C101P62ThinF_IMG_20150918_151006_cell_74_png.rf.168fe2682fabe117672de8350b6b1796.jpg"
+        },
+        {
+            "time": "2026-05-02 23:40:48.709984",
+            "result": "\ud83e\udda0 Parasitized (Malaria Detected)",
+            "image": "static/uploads\\C101P62ThinF_IMG_20150918_151006_cell_74_png.rf.168fe2682fabe117672de8350b6b1796.jpg"
+        },
+        {
+            "time": "2026-05-02 23:41:00.578839",
+            "result": "\u2705 Uninfected",
+            "image": "static/uploads\\C100P61ThinF_IMG_20150918_144104_cell_48_png.rf.1a90ad4a43921197e6957be6a000194c.jpg"
+        },
+        {
+            "time": "2026-05-02 23:47:08.637495",
+            "result": "\ud83e\udda0 Parasitized",
+            "image": "static/uploads\\C101P62ThinF_IMG_20150918_151006_cell_74_png.rf.168fe2682fabe117672de8350b6b1796.jpg"
+        },
+        {
+            "time": "2026-05-03 00:02:32.375830",
+            "result": "\u2705 Uninfected",
+            "image": "static/uploads\\C100P61ThinF_IMG_20150918_144104_cell_48_png.rf.1a90ad4a43921197e6957be6a000194c.jpg"
+        },
+        {
+            "time": "2026-05-03 00:04:09.273395",
+            "result": "\u2705 Uninfected",
+            "image": "static/uploads\\C105P66ThinF_IMG_20150924_095130_cell_155.png"
+        },
+        {
+            "time": "2026-05-03 00:06:05.070281",
+            "result": "\ud83e\udda0 Parasitized (Malaria Detected)",
+            "image": "static/uploads\\C132P93ThinF_IMG_20151004_152257_cell_136.png"
+        },
+        {
+            "time": "2026-05-03 00:06:22.423818",
+            "result": "\ud83e\udda0 Parasitized (Malaria Detected)",
+            "image": "static/uploads\\C101P62ThinF_IMG_20150918_151006_cell_74_png.rf.168fe2682fabe117672de8350b6b1796.jpg"
+        },
+        {
+            "time": "2026-05-03 00:06:32.601823",
+            "result": "\u2705 Uninfected",
+            "image": "static/uploads\\C100P61ThinF_IMG_20150918_144104_cell_48_png.rf.1a90ad4a43921197e6957be6a000194c.jpg"
+        }
+    ]
+}
